@@ -31,66 +31,25 @@
 <!--                  ABOUT ME SECTION                      -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a5f&height=3&section=header" width="100%"/>
-
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-## 🌟 Who Am I?
-
-```swift
-struct SanjanaNath {
-    let role       = "Software Developer"
-    let experience = "3+ years"
-    let org        = "IBITF @ IIT Bhilai"
-    let mission    = "Code with impact"
-
-    let expertise  = [
-        "📱 Flutter & Dart",
-        "⚙️  Node.js Backend",
-        "🔥 Firebase & Real-time",
-        "🏛️  GovTech Platforms"
-    ]
-
-    func currentFocus() -> String {
-        return """
-        Building technology that reaches
-        millions of real people — from
-        classrooms to government offices.
-        """
-    }
-}
-```
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<br/><br/>
-
-### 🛰️ Currently At
-
-<img src="https://img.shields.io/badge/IIT%20Bhilai-Innovation%20%26%20Tech%20Foundation-0ea5e9?style=for-the-badge&logo=academia&logoColor=white" />
-
-<br/><br/>
-
-### 🎯 Mission
-> *"Turning complex systems into*
-> *tools that real people actually use."*
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020817,100:0f172a&height=60&section=header&text=👩‍💻%20About%20Me&fontSize=28&fontColor=38bdf8&fontAlignY=70" width="100%"/>
 
 <br/>
 
-### 📍 Based In
-**India** 🇮🇳 — Building for Bharat
+<div align="center">
+
+🚀 &nbsp;**Software Developer** with **3+ years** of experience building scalable mobile & backend systems<br/>
+🏛️ &nbsp;Currently at **IIT Bhilai Innovation & Technology Foundation (IBITF)**<br/>
+📱 &nbsp;Specializing in **Flutter · Node.js · Firebase · Real-time GovTech Platforms**<br/>
+🌍 &nbsp;Building technology that reaches **millions of real users** across India<br/>
+💡 &nbsp;Open to **Collaboration · GovTech · Open Source**
 
 <br/>
 
-### 💡 Open To
-Collaboration · GovTech · Open Source
+<img src="https://img.shields.io/badge/🏛️%20IIT%20Bhilai-IBITF-0ea5e9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📍%20India-Building%20for%20Bharat%20🇮🇳-10b981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚡%203%2B%20Years-Experience-f59e0b?style=for-the-badge" />
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -98,41 +57,30 @@ Collaboration · GovTech · Open Source
 <!--                  IMPACT BANNER                         -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020817,100:0f172a&height=60&section=header&text=⚡%20Impact%20at%20Scale&fontSize=28&fontColor=38bdf8&fontAlignY=70" width="100%"/>
+
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjananath&repo=sanjananath&bg_color=0d1117" style="display:none"/>
+
+| 🏫 | 👩‍🏫 | 📱 |
+|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/50%2C000%2B-Schools%20Covered-0ea5e9?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/120%2C000%2B-Teachers%20Served-10b981?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/Multiple-Production%20Apps-f59e0b?style=for-the-badge&labelColor=0d1117) |
+| **Vidhya Samiksha Kendra** | **Teacher Attendance System** | **Govt & Enterprise** |
+| Education monitoring at scale | Daily-use mobile app | Deployed & production-ready |
 
 <br/>
 
-### ⚡ IMPACT AT SCALE
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:10b981,100:f59e0b&height=4&section=header" width="80%"/>
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🏫%2050%2C000+-SCHOOLS%20COVERED-0ea5e9?style=for-the-badge" /><br/>
-      <sub><b>Vidhya Samiksha Kendra</b><br/>Education monitoring platform</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/👩‍🏫%20120%2C000+-TEACHERS%20SERVED-10b981?style=for-the-badge" /><br/>
-      <sub><b>Teacher Attendance System</b><br/>Daily-use government app</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/📱%20Multiple-PRODUCTION%20APPS-f59e0b?style=for-the-badge" /><br/>
-      <sub><b>Govt & Enterprise</b><br/>Deployed & scaled in production</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  🏛️  Real projects. Real users. Real impact.                     ║
-║  Every line of code reaches classrooms, teachers, and students. ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+> 🛰️ *Real projects. Real users. Real impact.*
+> *Every line of code reaches classrooms, teachers, and students across India.*
 
 </div>
 
@@ -234,26 +182,27 @@ Collaboration · GovTech · Open Source
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020817,100:0f172a&height=60&section=header&text=🌐%20Let%27s%20Connect&fontSize=28&fontColor=38bdf8&fontAlignY=70" width="100%"/>
 
 <br/>
 
-### 🌐 Let's Build Something That Matters
-
 <a href="https://www.linkedin.com/in/sanjana-nath-476908227/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:sanjananath88@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-sanjananath88@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/Gmail-Drop%20a%20mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-```
-"The best software is invisible —
- it just makes life work better for the people who need it most."
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:10b981,100:f59e0b&height=3&section=header" width="60%"/>
+
+<br/>
+
+### 💬 A thought I build by
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 <br/>
 
@@ -266,6 +215,6 @@ Collaboration · GovTech · Open Source
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:020817&height=130&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=22&fontColor=e0f2fe&fontAlignY=65&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,30:10b981,70:1e3a5f,100:020817&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐%20Drop%20a%20star%20if%20you%20like%20my%20work!&fontSize=18&fontColor=e0f2fe&fontAlignY=65&animation=twinkling"/>
 
 </div>
