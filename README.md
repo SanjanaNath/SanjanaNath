@@ -181,16 +181,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanjananath&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8&ring_color=0ea5e9" width="48%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=sanjananath&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&currStreakNum=e0f2fe&sideNums=e0f2fe&dates=94a3b8" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjananath&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="42%" />
-
-<br/><br/>
-
-![](https://github-profile-trophy.vercel.app/?username=sanjananath&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
+<img src="https://github-readme-stats.vercel.app/api?username=sanjananath&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8&ring_color=0ea5e9" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=sanjananath&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&currStreakNum=e0f2fe&sideNums=e0f2fe&dates=94a3b8" width="49%" />
 
 </div>
 
