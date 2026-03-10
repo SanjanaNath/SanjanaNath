@@ -1,29 +1,60 @@
-# 👋 Hi, I'm Sanjana Nath
+<div align="center">
 
-🚀 Software Developer with **3+ years of experience** building scalable mobile applications and backend services.
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sanjana%20Nath&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Flutter%20%7C%20Node.js%20%7C%20GovTech&descAlignY=60&descColor=8B949E" />
 
-Currently working at **IIT Bhilai Innovation and Technology Foundation (IBITF)** where I develop technology solutions for **government platforms and research initiatives**.
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+at+the+intersection+of+tech+%26+impact;120K%2B+teachers+%7C+50K%2B+schools+served;Flutter+%E2%9C%A6+Node.js+%E2%9C%A6+Real-time+Systems;Turning+code+into+public+good+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-### 🔹 What I Work On
-- Cross-platform mobile development using **Flutter & Dart**
-- Backend services using **Node.js**
-- Building **real-time data systems for government platforms**
-- API integrations, Firebase services, and scalable mobile architectures
+<br/><br/>
 
-### 🔹 Impact
-- 📊 Contributed to **Vidhya Samiksha Kendra**, an education monitoring platform covering **50,000+ schools**
-- 👩‍🏫 Built a **teacher attendance system used by 120K+ teachers**
-- 📱 Developed multiple **production mobile applications** for government and enterprise platforms
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-nath-476908227/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjananath88@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=sanjananath&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/sanjananath)
 
----
-
-# 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-nath-476908227/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjananath88@gmail.com)
+</div>
 
 ---
 
-# 💻 Tech Stack
+## 👩‍💻 About Me
+
+```yaml
+name: Sanjana Nath
+role: Software Developer
+experience: 3+ years
+organization: IIT Bhilai Innovation & Technology Foundation (IBITF)
+focus:
+  - Cross-platform mobile development (Flutter & Dart)
+  - Backend services (Node.js)
+  - Real-time data systems for government platforms
+  - API integrations & scalable architectures
+currently_building: GovTech solutions for education & public services
+superpower: Turning complex problems into impactful, scalable systems
+```
+
+---
+
+## 🏆 Impact at Scale
+
+<div align="center">
+
+| 🏫 Schools Covered | 👩‍🏫 Teachers Served | 📱 Production Apps |
+|:---:|:---:|:---:|
+| **50,000+** | **120,000+** | **Multiple** |
+| Vidhya Samiksha Kendra | Teacher Attendance System | Govt & Enterprise |
+
+</div>
+
+> 🎯 **Vidhya Samiksha Kendra** — A large-scale education monitoring platform covering 50,000+ schools across the region, built to bring accountability and transparency to public education.
+
+> 👩‍🏫 **Teacher Attendance System** — A mission-critical mobile application actively used by 120,000+ teachers daily across government schools.
+
+---
+
+## 🛠️ Tech Stack
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -45,7 +76,7 @@ Currently working at **IIT Bhilai Innovation and Technology Foundation (IBITF)**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 🧰 Tools & Development
+### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -60,10 +91,48 @@ Currently working at **IIT Bhilai Innovation and Technology Foundation (IBITF)**
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sanjananath&theme=dark&hide_border=true)
+<div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=sanjananath&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=sanjananath&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=sanjananath&theme=tokyonight&hide_border=true" height="165" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjananath&theme=dark&layout=compact&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjananath&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=sanjananath&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Sanjana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjananath&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Meaningful
+
+*"Code is not just logic — it's infrastructure for human lives."*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-nath-476908227/)
+[![Email](https://img.shields.io/badge/Drop_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjananath88@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer"/>
+
+</div>
