@@ -39,15 +39,49 @@
 
 🚀 &nbsp;**Software Developer** with **3+ years** of experience building scalable mobile & backend systems<br/>
 🏛️ &nbsp;Currently at **IIT Bhilai Innovation & Technology Foundation (IBITF)**<br/>
-📱 &nbsp;Specializing in **Flutter · Node.js · Firebase · Real-time GovTech Platforms**<br/>
-🌍 &nbsp;Building technology that reaches **millions of real users** across India<br/>
-💡 &nbsp;Open to **Collaboration · GovTech · Open Source**
+📱 &nbsp;Specializing in **Flutter · Node.js · Firebase · Real-time GovTech Platforms**
 
 <br/>
 
 <img src="https://img.shields.io/badge/🏛️%20IIT%20Bhilai-IBITF-0ea5e9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/📍%20India-Building%20for%20Bharat%20🇮🇳-10b981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/⚡%203%2B%20Years-Experience-f59e0b?style=for-the-badge" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                WHAT I WORK ON                          -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020817,100:0f172a&height=60&section=header&text=🔹%20What%20I%20Work%20On&fontSize=28&fontColor=38bdf8&fontAlignY=70" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ I Build
+&nbsp;&nbsp;📱 &nbsp;Cross-platform mobile apps using **Flutter & Dart**<br/>
+&nbsp;&nbsp;⚙️ &nbsp;Backend services with **Node.js**<br/>
+&nbsp;&nbsp;📡 &nbsp;**Real-time data systems** for government platforms<br/>
+&nbsp;&nbsp;🔗 &nbsp;API integrations, **Firebase** services & scalable mobile architectures
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 Impact
+&nbsp;&nbsp;📊 &nbsp;**Vidhya Samiksha Kendra** — education platform covering **50,000+ schools**<br/>
+&nbsp;&nbsp;👩‍🏫 &nbsp;Teacher attendance system used by **120K+ teachers**<br/>
+&nbsp;&nbsp;📱 &nbsp;Multiple **production apps** for government & enterprise platforms
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -64,8 +98,6 @@
 <br/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjananath&repo=sanjananath&bg_color=0d1117" style="display:none"/>
 
 | 🏫 | 👩‍🏫 | 📱 |
 |:---:|:---:|:---:|
@@ -213,8 +245,16 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:10b981,100:f59e0b&height=3&section=header" width="60%"/>
+
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,30:10b981,70:1e3a5f,100:020817&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐%20Drop%20a%20star%20if%20you%20like%20my%20work!&fontSize=18&fontColor=e0f2fe&fontAlignY=65&animation=twinkling"/>
+<img src="https://img.shields.io/badge/💡%20Open%20to-Collaboration%20·%20GovTech%20·%20Open%20Source-0ea5e9?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,30:10b981,70:1e3a5f,100:020817&height=120&section=footer"/>
 
 </div>
